@@ -1,0 +1,40 @@
+localhost:8080/api/saveDealer
+
+
+
+{
+    "dist_name": "Akhil",
+    "dist_code": "AK5463",
+    "dealer_shop_name": "CCD",
+    "dealer_first_name": "RICHARD",
+    "dealer_last_name": "JOHN",
+    "phone": "1234546567",
+    "dealer_address": "House",
+    "dealer_area": "Area",
+    "dealer_postal": "38246",
+    "dealer_city": "City",
+    "dealer_district": "District",
+    "dealer_state": "State",
+    "dealer_code": "as2342",
+    "dealer_shop_profile": "Profile",
+    "gstin": "asd3t43827487qwdgjhasdg3",
+    "compProfileAddDealer": [{
+        "brand": "TATA",
+        "category2WB": "jhdb",
+        "category2W": "sdjhfb",
+        "category4W": "xjhvb",
+        "categoryAB": "zdf",
+        "categoryER": "sdf",
+	    "timeDuration": "M"
+    },
+    {
+        "brand": "TATA",
+        "category2WB": "jhdb",
+        "category2W": "sdjhfb",
+        "category4W": "xjhvb",
+        "categoryAB": "zdf",
+        "categoryER": "sdf",
+	    "timeDuration": "M"
+    }
+    ]
+}
